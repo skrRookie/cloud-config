@@ -1,1 +1,2 @@
-config-prod
+config:
+  info:master branch,cloud-config/config-prod.xml version=1

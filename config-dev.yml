@@ -1,1 +1,2 @@
-config-dev
+config:
+    info:master branch,cloud-config/config-dev.xml version=1
