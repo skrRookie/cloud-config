@@ -1,2 +1,2 @@
 config:
-  info: master branch,cloud-config/config-test.xml version=1
+  info: "master branch,cloud-config/config-test.xml version=1"
